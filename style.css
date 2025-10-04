@@ -3790,7 +3790,7 @@ kbd {
 }
 
 .secret-header::before, .letter-header::before {
-  content: 'â¦';
+  content: '❦';
   position: absolute;
   left: 50%;
   bottom: -12px;
